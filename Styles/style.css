@@ -22,7 +22,7 @@ body {
   
   .menu {
     float: right;
-    margin: 24px;
+    margin: 36px;
   }
   
   .menu a {
@@ -49,8 +49,7 @@ body {
   .banner h1 {
     text-align: left;
     font-size: 100px;
-    padding: 150px 50px;
-    text-align: justify;
+    padding: 100px 50px;
     margin-right: 60%;
   }
 
